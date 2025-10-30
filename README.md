@@ -49,17 +49,6 @@ The Online Banking System aims to streamline banking processes, provide secure t
 - **Frontend**: Built with Streamlit, offering an intuitive and interactive interface.
 - **Backend**: Powered by MySQL for robust data management.
 
----
-
-## ER and Use Case Diagrams
-
-### Entity-Relationship Diagram
-
-![ER Diagram](images/ERD.png)
-
-### Use Case Diagram
-
-![Use Case Diagram](images/use-case-diagram.png)
 
 ---
 
