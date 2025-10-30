@@ -51,19 +51,4 @@ online-banking-system/
 
 
 
-🚀 Getting Started
-- Clone the repository
-git clone https://github.com/Garv8708/online-banking-system.git
-- Install dependencies
-pip install -r requirements.txt
-- Set up the database
-Import db_setup.sql into your MySQL server.
-- Run the application
-streamlit run main.py
-
-📌 Future Enhancements
-- Add admin panel for staff operations
-- Implement OTP-based login and two-factor authentication
-- Integrate email/SMS notifications
-- Add support for mobile responsiveness
 - Include analytics dashboard for spending insights
