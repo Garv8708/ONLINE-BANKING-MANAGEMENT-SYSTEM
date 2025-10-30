@@ -53,7 +53,7 @@ online-banking-system/
 
 🚀 Getting Started
 - Clone the repository
-git clone https://github.com/your-username/online-banking-system.git
+git clone https://github.com/Garv8708/online-banking-system.git
 - Install dependencies
 pip install -r requirements.txt
 - Set up the database
