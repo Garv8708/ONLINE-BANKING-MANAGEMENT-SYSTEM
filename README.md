@@ -1,90 +1,69 @@
-# Online Banking System
+ Online Banking System
+This project automates essential banking operations using Python, MySQL, and Streamlit, offering a secure, paperless, and user-friendly experience for managing accounts, transactions, cards, and loans.
 
-This project automates banking operations using Python, MySQL, and Streamlit, providing essential features such as account management, transaction history, credit card and loan applications, and more.
+📑 Table of Contents
+- 📌 Introduction
+- ✨ Features
+- 🧠 System Architecture
+- 🛠 Technologies Used
+- 📂 File Structure
+- 🚀 Getting Started
+- 📌 Future Enhancements
 
----
+📌 Introduction
+The Online Banking System is designed to simplify and digitize banking processes. It provides users with a secure platform to manage their financial activities, including account details, fund transfers, card services, and loan tracking.
+🎯 Objectives
+- Automate banking transactions and services
+- Ensure secure and efficient data handling
+- Provide a user-friendly interface for customers
+- Promote eco-friendly, paperless banking
+- Demonstrate advanced SQL operations and Python integration
 
-## Table of Contents
+✨ Features
+- Login System: Secure authentication for users
+- Account Dashboard: View balances, limits, and account details
+- Fund Transfers: Transfer money between accounts
+- Card Management: Monitor and update credit/debit card limits
+- Loan Services: Apply for loans and manage repayments
+- Transaction History: Access detailed records of all transactions
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [System Architecture](#system-architecture)
-- [ER and Use Case Diagrams](#er-and-use-case-diagrams)
-- [Technologies Used](#technologies-used)
-- [Front-end](#front-end)
+🧠 System Architecture
+- Frontend: Built with Streamlit for interactive UI
+- Backend: Managed with MySQL for data storage
+- Connector: Uses mysql-connector-python for database communication
 
----
-
-## Introduction
-
-The Online Banking System aims to streamline banking processes, provide secure transactions, and offer a paperless banking experience. Developed using Python and MySQL, it includes features such as account management, fund transfers, credit/debit cards management, loan repayment and detailed transaction history.
-
-### Objectives
-
-- Automate banking transactions.
-- Ensure efficient and secure record-keeping.
-- Simplify banking processes with a user-friendly interface.
-- Provide a paperless and eco-friendly banking experience.
-- Showcase advanced MySQL operations and queries.
-
----
-
-## Features
-
-- **Account Management**: View account details, update account limits, and manage funds.
-- **Transaction History**: Access detailed transaction records.
-- **Credit/Debit Cards**: View and update card limits.
-- **Loan Management**: Monitor and repay loans.
-- **Transfer Funds**: Transfer Funds to other accounts.
----
-
-## System Architecture
-
-### Proposed Flow Diagram
-
-![Architecture Diagram](images/flow-diagram.jpg)
-
-### Frontend and Backend Overview
-
-- **Frontend**: Built with Streamlit, offering an intuitive and interactive interface.
-- **Backend**: Powered by MySQL for robust data management.
+🛠 Technologies Used
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
 
 
----
 
-## Technologies Used
-
-- **Python**: Core programming language.
-- **Streamlit**: Frontend development.
-- **MySQL**: Database management system.
-- **MySQL Connector**: Python library for MySQL connectivity.
-
----
-
-## Front-end
-
-### Login Page
-
-![Login Page](Screenshot 2025-10-30 213949.png)
-
-### Home Page
-
-![Home Page](Screenshot 2025-10-30 213005.png)
-
-### Account Setting
-![Account Setting](Screenshot 2025-10-30 213155.png)
-
-### Cards Information and Settings
-
-![Cards Info](Screenshot 2025-10-30 213325.png)
-
-### Loan Information and Repayment
-
-![Loan Info](Screenshot 2025-10-30 213746.png)
+📂 File Structure
+online-banking-system/
+│
+├── main.py                  # Streamlit app entry point
+├── db_setup.sql             # MySQL database schema
+├── README.md                # Project documentation
+├── Screenshots*.png          # UI screenshots (optional)
 
 
-### Transaction History
 
-![Transaction History](Screenshot 2025-10-30 213949.png)
+🚀 Getting Started
+- Clone the repository
+git clone https://github.com/your-username/online-banking-system.git
+- Install dependencies
+pip install -r requirements.txt
+- Set up the database
+Import db_setup.sql into your MySQL server.
+- Run the application
+streamlit run main.py
 
----
+📌 Future Enhancements
+- Add admin panel for staff operations
+- Implement OTP-based login and two-factor authentication
+- Integrate email/SMS notifications
+- Add support for mobile responsiveness
+- Include analytics dashboard for spending insights
