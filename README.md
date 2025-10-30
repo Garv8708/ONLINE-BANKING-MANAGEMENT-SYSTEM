@@ -76,28 +76,26 @@ The Online Banking System aims to streamline banking processes, provide secure t
 
 ### Login Page
 
-![Login Page](images/login_page.png)
+![Login Page](images/Screenshot 2025-10-30 213949.png)
 
-### Home Page and Account Settings
+### Home Page
 
-![Home Page](images/home_page.png)
+![Home Page](images/Screenshot 2025-10-30 213005.png)
+
+### Account Setting
+![Account Setting](images/Screenshot 2025-10-30 213155.png)
 
 ### Cards Information and Settings
 
-![Cards Info](images/cards_info.png)
+![Cards Info](images/Screenshot 2025-10-30 213325.png)
 
 ### Loan Information and Repayment
 
-![Loan Info](images/loan_info.png)
+![Loan Info](images/Screenshot 2025-10-30 213746.png)
 
-### Funds Transfer
-
-![Funds Transfer 1](images/fund_transfer_1.png)
-
-![Funds Transfer 1](images/fund_transfer_2.png)
 
 ### Transaction History
 
-![Transaction History](images/transaction_history.png)
+![Transaction History](images/Screenshot 2025-10-30 213949.png)
 
 ---
