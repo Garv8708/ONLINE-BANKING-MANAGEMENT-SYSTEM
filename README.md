@@ -43,12 +43,8 @@ The Online Banking System is designed to simplify and digitize banking processes
 
 📂 File Structure
 online-banking-system/
-│
+│ 
 ├── main.py                  # Streamlit app entry point
 ├── db_setup.sql             # MySQL database schema
 ├── README.md                # Project documentation
 ├── Screenshots*.png          # UI screenshots (optional)
-
-
-
-- Include analytics dashboard for spending insights
